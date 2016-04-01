@@ -1,3 +1,3 @@
-# My Awesome Book
+# Demo Book
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+This books is made up of a series of Markdown files, and edited usign the gitbooks.com editor.
